@@ -6,8 +6,8 @@
   - 电子版教材：不上传。一般在本科大群里可找到。
   - 个人作业或索引
   - 往届试卷回忆
-  - 课件：原则上不上传，或者看[这里](https://github.com/Therock90421/Undergraduate_Course_Materials)
-+ 目前是个人经验总结。想补充的可以直接pull request或者联系我。更新的课程请加上开课学期。
+  - 课件：原则上不上传，或者看[这里(+hw)](https://github.com/Therock90421/Undergraduate_Course_Materials)  [或者这里(hw)](https://github.com/Hambaobao/UCAS-CS)  
++ 想补充的可以直接pull request或者联系我。更新的课程请加上开课学期。
 + 敏感内容以外的内容：
   - 选课攻略
   - 混分经验
