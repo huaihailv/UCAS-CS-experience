@@ -8,11 +8,13 @@
   - 往届试卷回忆
   - 课件：原则上不上传，或者看[这里(+hw)](https://github.com/Therock90421/Undergraduate_Course_Materials)  [或者这里(hw)](https://github.com/Hambaobao/UCAS-CS)  
 + 想补充的可以直接pull request或者联系我。更新的课程请加上开课学期。
++ 有其它问题也可以直接联系我。
 + 敏感内容以外的内容：
   - 选课攻略
   - 混分经验
++ 在UCAS-schoolwork下的作业可能不会被索引。
 + 水平很低，仅供参考。也只限参考。
 + 说得比较模糊的地方大概是忘了。
-+ 更新中
++ 本人暂停更新，期待您的加入。（体系结构和操作系统今年又换平台了？）
 
 ### 几点经验
